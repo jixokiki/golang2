@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"example/SRC/PEMBELAJARAN_GOLANG/appG"
+	"example/SRC/PEMBELAJARAN_GOLANG/appsGolang"
 )
 
 func main(){
-	fmt.Println(appG.Haii())
+	fmt.Println(appsGolang.Hello())
 }

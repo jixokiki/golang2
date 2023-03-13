@@ -1,0 +1,9 @@
+if number%2 == 1{
+		fmt.Print("merupakan bilangan prima")
+	} else if number%2 == 2{
+		fmt.Print("bukan merupakan bilangan prima")
+	}else if number%3 ==0{
+		fmt.Println("merupakan bilangan prima")
+	}else{
+		fmt.Println("bukan merupakan bilangan prima")
+	}
